@@ -1,0 +1,57 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+*.pyo
+*.pyd
+
+# Config files
+.env
+*.env
+
+# Logs
+*.log
+
+# Ignore virtual environments
+env/
+.venv/
+ENV/
+.venv
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+
+# pyenv
+.python-version
+
+# pytest
+.cache/
+.pytest_cache/
+*.coverage
+.cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# PyCharm
+.idea/
+*.iml
+
+# Ignore pytest logs
+pytest_report.txt
