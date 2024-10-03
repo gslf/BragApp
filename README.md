@@ -67,10 +67,10 @@ docker-compose up --build
 
 
 ## Frontend
-For more details on the frontend setup, development environment, and available scripts, refer to the [frontend README](.frontend/README.md).
+For more details on the frontend setup, development environment, and available scripts, refer to the [frontend README](frontend/README.md).
 
 ## Backend
-For more details on the backend setup, environment configuration, and available endpoints, refer to the [backend README](.backend/README.md).
+For more details on the backend setup, environment configuration, and available endpoints, refer to the [backend README](backend/README.md).
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
